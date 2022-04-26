@@ -1,0 +1,43 @@
+{
+  "farm": [
+    {
+      "type": "NFT",
+      "title": "Genesis Pear Ticket Pool",
+      "sort": "1",
+      "contract": "",
+      "mine": "0xe85231a4Eaa69169c1DDE01dDDD933087aa0C272",
+      "earn": [
+        {
+          "symbol": "PEX",
+          "contract": "0x6a0b66710567b6beb81A71F7e9466450a91a384b"
+        }
+      ],
+      "stake": [
+        {
+          "symbol": "Genesis Pear Ticket",
+          "contract": "0x60e8b899fE6AEa55cdc2736F3626599E38844c2a"
+        }
+      ]
+    },
+    {
+      "type": "singleAsset",
+      "title": "PEX DAO Pool",
+      "sort": "0",
+      "contract": "",
+      "showAPY": true,
+      "mine": "0xe85231a4Eaa69169c1DDE01dDDD933087aa0C272",
+      "earn": [
+        {
+          "symbol": "PEX",
+          "contract": "0x6a0b66710567b6beb81A71F7e9466450a91a384b"
+        }
+      ],
+      "stake": [
+        {
+          "symbol": "PEX",
+          "contract": "0x6a0b66710567b6beb81A71F7e9466450a91a384b"
+        }
+      ]
+    }
+  ]
+}
