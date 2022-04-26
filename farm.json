@@ -4,7 +4,7 @@
       "type": "NFT",
       "title": "Genesis Pear Ticket Pool",
       "sort": "1",
-      "contract": "",
+      "contract": "0x211F5A256fa8fB6e3f3768F82E1ed48dF6d9B8d5",
       "mine": "0xe85231a4Eaa69169c1DDE01dDDD933087aa0C272",
       "earn": [
         {
@@ -23,7 +23,7 @@
       "type": "singleAsset",
       "title": "PEX DAO Pool",
       "sort": "0",
-      "contract": "",
+      "contract": "0x5F57dCa7D4f81D56C777E060D9dC81AF112d23eb",
       "showAPY": true,
       "mine": "0xe85231a4Eaa69169c1DDE01dDDD933087aa0C272",
       "earn": [
