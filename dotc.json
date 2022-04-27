@@ -1,0 +1,261 @@
+{
+  "fiat": [
+    {
+      "pair": "USD",
+      "decimals": 2,
+      "symbol": "$"
+    },
+    {
+      "pair": "EUR",
+      "decimals": 2,
+      "symbol": "€"
+    },
+    {
+      "pair": "INR",
+      "decimals": 2,
+      "symbol": "₹"
+    },
+    {
+      "pair": "BRL",
+      "decimals": 2,
+      "symbol": "R$"
+    },
+    {
+      "pair": "PEN",
+      "decimals": 2,
+      "symbol": "S/."
+    },
+    {
+      "pair": "CHF",
+      "decimals": 2,
+      "symbol": "CHF"
+    },
+    {
+      "pair": "KES",
+      "decimals": 2,
+      "symbol": "KSh"
+    },
+    {
+      "pair": "NGN",
+      "decimals": 2,
+      "symbol": "₦"
+    },
+    {
+      "pair": "CNY",
+      "decimals": 2,
+      "symbol": "¥"
+    },
+    {
+      "pair": "PHP",
+      "decimals": 2,
+      "symbol": "₱"
+    },
+    {
+      "pair": "UAH",
+      "decimals": 2,
+      "symbol": "₴"
+    },
+    {
+      "pair": "RUB",
+      "decimals": 2,
+      "symbol": "₽"
+    },
+    {
+      "pair": "ILS",
+      "decimals": 2,
+      "symbol": "₪"
+    },
+    {
+      "pair": "TWD",
+      "decimals": 2,
+      "symbol": "NT$"
+    },
+    {
+      "pair": "BGN",
+      "decimals": 2,
+      "symbol": "лв"
+    },
+    {
+      "pair": "SAR",
+      "decimals": 2,
+      "symbol": "ر.س"
+    },
+    {
+      "pair": "COP",
+      "decimals": 2,
+      "symbol": "COL$"
+    },
+    {
+      "pair": "UGX",
+      "decimals": 2,
+      "symbol": "USh"
+    },
+    {
+      "pair": "ZAR",
+      "decimals": 2,
+      "symbol": "R"
+    },
+    {
+      "pair": "DKK",
+      "decimals": 2,
+      "symbol": "KR"
+    },
+    {
+      "pair": "NZD",
+      "decimals": 2,
+      "symbol": "NZ$"
+    },
+    {
+      "pair": "KZT",
+      "decimals": 2,
+      "symbol": "₸"
+    },
+    {
+      "pair": "MAD",
+      "rate": 9.26,
+      "symbol": "م.د."
+    },
+    {
+      "pair": "THB",
+      "decimals": 2,
+      "symbol": "฿"
+    },
+    {
+      "pair": "PKR",
+      "decimals": 2,
+      "symbol": "₨"
+    },
+    {
+      "pair": "BOB",
+      "decimals": 2,
+      "symbol": "$b"
+    },
+    {
+      "pair": "TRY",
+      "decimals": 2,
+      "symbol": "₺"
+    },
+    {
+      "pair": "ARS",
+      "decimals": 2,
+      "symbol": "ARS$"
+    },
+    {
+      "pair": "BDT",
+      "decimals": 2,
+      "symbol": "৳"
+    },
+    {
+      "pair": "MXN",
+      "decimals": 2,
+      "symbol": "Mex$"
+    },
+    {
+      "pair": "SEK",
+      "decimals": 2,
+      "symbol": "kr"
+    },
+    {
+      "pair": "HUF",
+      "decimals": 2,
+      "symbol": "Ft"
+    },
+    {
+      "pair": "HRK",
+      "decimals": 2,
+      "symbol": "kn"
+    },
+    {
+      "pair": "JPY",
+      "decimals": 2,
+      "symbol": "¥"
+    },
+    {
+      "pair": "AED",
+      "decimals": 2,
+      "symbol": "د.إ"
+    },
+    {
+      "pair": "CAD",
+      "decimals": 2,
+      "symbol": "C$"
+    },
+    {
+      "pair": "AUD",
+      "decimals": 2,
+      "symbol": "A$"
+    },
+    {
+      "pair": "EGP",
+      "decimals": 2,
+      "symbol": "£"
+    },
+    {
+      "pair": "RON",
+      "decimals": 2,
+      "symbol": "lei"
+    },
+    {
+      "pair": "IDR",
+      "decimals": 2,
+      "symbol": "Rp"
+    },
+    {
+      "pair": "PLN",
+      "decimals": 2,
+      "symbol": "zł"
+    },
+    {
+      "pair": "HKD",
+      "decimals": 2,
+      "symbol": "HKD"
+    },
+    {
+      "pair": "VND",
+      "decimals": 2,
+      "symbol": "₫"
+    },
+    {
+      "pair": "GBP",
+      "decimals": 2,
+      "symbol": "£"
+    },
+    {
+      "pair": "CZK",
+      "decimals": 2,
+      "symbol": "Kč"
+    },
+    {
+      "pair": "VES",
+      "decimals": 2,
+      "symbol": "Bs"
+    }
+  ],
+  "asset": [
+    {
+      "address": "0x55d398326f99059ff775485246999027b3197955",
+      "token": "USDT",
+      "decimals": 4,
+      "max": "1000"
+    },
+    {
+      "address": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
+      "token": "USDC",
+      "decimals": 4,
+      "max": "1000"
+    },
+
+    {
+      "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+      "token": "BUSD",
+      "decimals": 4,
+      "max": "1000"
+    }
+  ],
+  "payment": [
+    {
+      "label": "Bank Transfer",
+      "id": "1"
+    }
+  ]
+}
