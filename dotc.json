@@ -236,20 +236,20 @@
       "address": "0x55d398326f99059ff775485246999027b3197955",
       "token": "USDT",
       "decimals": 4,
-      "max": "1000"
+      "max": 1000
     },
     {
       "address": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
       "token": "USDC",
       "decimals": 4,
-      "max": "1000"
+      "max": 1000
     },
 
     {
       "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
       "token": "BUSD",
       "decimals": 4,
-      "max": "1000"
+      "max": 1000
     }
   ],
   "payment": [
