@@ -256,5 +256,6 @@
       "label": "Bank Transfer",
       "id": "1"
     }
-  ]
+  ],
+  "needStakeLP": ["BUY", "SELL"]
 }
