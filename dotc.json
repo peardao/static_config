@@ -257,5 +257,5 @@
       "id": "1"
     }
   ],
-  "needStakeLP": ["BUY"]
+  "needStakeLP": ["BUY", "SELL"]
 }
