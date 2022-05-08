@@ -257,5 +257,6 @@
       "id": "1"
     }
   ],
-  "needStakeLP": ["BUY", "SELL"]
+  "needStakeLP": ["BUY", "SELL"],
+  "postAdsStakeLimitVol": 100
 }
