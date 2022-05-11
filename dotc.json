@@ -249,6 +249,12 @@
       "token": "USDC",
       "decimals": 4,
       "max": 1000
+    },
+    {
+      "address": "0x23396cF899Ca06c4472205fC903bDB4de249D6fC",
+      "token": "UST",
+      "decimals": 4,
+      "max": 1000
     }
   ],
   "payment": [
